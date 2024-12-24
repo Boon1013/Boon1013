@@ -1,3 +1,5 @@
-Hey, I'm Mr. boon a content creator and developer.
+# Hello there,
 
-You can DM me on Discord: <b>Mr. boon#3525</b>
+I am Mr. boon, I mainly use JS, LUA, and C#. I make tons of random projects that usually go no where.
+
+If you want to contact me do so on Discord: <b>mr.boon</b>
